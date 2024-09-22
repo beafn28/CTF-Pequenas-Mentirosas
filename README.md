@@ -27,5 +27,12 @@ El objetivo del CTF es resolver varios retos que involucran técnicas de cifrado
 
 Los jugadores tendrán que descubrir claves y contraseñas para avanzar en el juego, enfrentándose a los enigmas de "A".
 
+## 🔗Enlace del desafío
+
+El archivo del CTF está disponible para descargar en el siguiente enlace de MEGA:
 [Descarga desde MEGA](https://mega.nz/file/oqs1hRDK#0kxvm35L2zRoAJiwDw0OSA4BvGycwqu0F0gQ2PdPwj4)
 
+## 🔗Enlace de referencia
+
+El writeup completo con más detalles también está disponible en GitBook, en el siguiente enlace:
+[Pequeñas Mentirosas Writeup - GitBook](https://beafn28.gitbook.io/beafn28/mis-ctfs/pequenas-mentirosas)

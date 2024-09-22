@@ -26,3 +26,6 @@ El objetivo del CTF es resolver varios retos que involucran técnicas de cifrado
 - Hashing (MD5)
 
 Los jugadores tendrán que descubrir claves y contraseñas para avanzar en el juego, enfrentándose a los enigmas de "A".
+
+[Descarga desde MEGA](https://mega.nz/file/oqs1hRDK#0kxvm35L2zRoAJiwDw0OSA4BvGycwqu0F0gQ2PdPwj4)
+

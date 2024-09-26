@@ -30,7 +30,7 @@ Los jugadores tendrán que descubrir claves y contraseñas para avanzar en el ju
 ## 🔗Enlace del desafío
 
 El archivo del CTF está disponible para descargar en el siguiente enlace de MEGA:
-[Descarga desde MEGA](https://mega.nz/file/oqs1hRDK#0kxvm35L2zRoAJiwDw0OSA4BvGycwqu0F0gQ2PdPwj4)
+[Descarga desde MEGA]([https://mega.nz/file/oqs1hRDK#0kxvm35L2zRoAJiwDw0OSA4BvGycwqu0F0gQ2PdPwj4](https://mega.nz/file/krM3RTCK#cPCgodAlcPLzy5cwiZd382x3arWCnDrQqxc30ybZcN0))
 
 ## 🔗Enlace de referencia
 

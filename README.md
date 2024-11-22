@@ -18,15 +18,6 @@ Para desplegar el CTF, sigue estos pasos:
     cd pequenas-mentirosas
     bash auto_desploy.sh pequenas-mentirosas.tar
 
-## 🔑 Objetivo
-El objetivo del CTF es resolver varios retos que involucran técnicas de cifrado, inspirados en las intrigas de la serie:
-
-- Cifrado Simétrico (AES)
-- Cifrado Asimétrico (RSA)
-- Hashing (MD5)
-
-Los jugadores tendrán que descubrir claves y contraseñas para avanzar en el juego, enfrentándose a los enigmas de "A".
-
 ## 🔗Enlace del desafío
 
 El archivo del CTF está disponible para descargar en el siguiente enlace de DockerLabs:  
